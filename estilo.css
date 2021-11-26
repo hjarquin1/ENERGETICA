@@ -1,0 +1,27 @@
+
+*{
+	margin: 3mp;
+	padding: 3mp;
+}
+h1,h2{
+	color:	#000080;
+	font-size: 2em;
+
+}
+h1{
+	font-size: 50px;
+}
+p{
+	color: red;
+
+}
+b{
+	color: orange;
+	font-size: 20px;
+}
+.yellow{
+	color: blue;
+}
+h3{
+	color:#000080 ;
+}
